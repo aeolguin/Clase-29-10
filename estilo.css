@@ -1,0 +1,29 @@
+.navbar {
+    overflow: hidden;
+    background-color: silver;
+    padding: 10px 20px;
+    box-shadow: 0 0 5px black;
+    
+}
+
+.navbar-acciones {
+    float: right;
+}
+
+#login {
+  
+}
+
+.ocultar {
+    display: none;
+}
+
+.button {
+    padding: 3px 6px;
+    background-color: teal;
+    color: white;
+    font-size: 14px;
+    border: none;
+    box-shadow: 0 0 1px black;
+    cursor: pointer;
+}
